@@ -1,0 +1,31 @@
+.task-list-card-style{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-top: 80px;
+	flex-wrap: wrap;
+}
+.task-item-style{
+	border: 1px solid rgb(208, 205, 205);
+	border-radius: 8px;
+	padding: 20px;
+	margin: 10px;
+	color: black;
+	background-color: rgb(235, 239, 240);
+	margin: 10px;
+
+}
+.delete-button{
+	border-width: 0px;
+	outline: none;
+	background-color: transparent;
+	cursor: pointer;
+	font-size: 17px;
+}
+.button{
+	border-width: 0px;
+	outline: none;
+	background-color: transparent;
+	cursor: pointer;
+	font-size: 17px;
+}

@@ -1,0 +1,50 @@
+.input-element-style{
+	outline: none;
+	color: black;
+	background-color: rgb(235, 239, 240);
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	border: 1px solid rgb(208, 205, 205); 
+	border-radius: 6px; 
+	margin: 5px;    
+}
+.select-element-style{
+	outline: none;
+	color: black;
+	background-color: rgb(235, 239, 240);
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	border: 1px solid rgb(208, 205, 205); 
+	border-radius: 6px; 
+	margin: 5px;
+}
+.option-el-style{
+	background-color: transparent;
+	color: black;
+}
+.add-button-style{
+	background-color: rgb(235, 239, 240);
+	color: black;
+	font-weight: 500;
+	padding-right: 23px;
+	padding-left: 23px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	outline: none;
+	border: 1px solid rgb(208, 205, 205);
+	border-radius: 8px;
+	margin: 5px;
+	cursor: pointer;
+}
+
+.headline-el-style{
+	color: white;
+	font-size: 40px;
+}
+.icon{
+	color: white;
+}
